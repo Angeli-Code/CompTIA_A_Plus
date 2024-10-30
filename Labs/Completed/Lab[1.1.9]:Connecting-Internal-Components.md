@@ -30,16 +30,16 @@ On the CorpServer computer, your task is to:
 - Ensure that the power and activity lights for the rack-mounted networking devices are still on and flickering.
 
 ### Issues and Troubleshooting
-- Issue[0]: Unfamiliar with Simulation User Interface
+- Issue[0]: Unfamiliar with Network Racks. Never worked with these before so this did not come as easily to me when performing the lab.
 
 ### Solutions
-- Solution[0]: Spend a few minutes just exploring around the UI and how I can interact with the simulation.
+- Solution[0]: Spend time trying to memorize the visual aid in the Test-Out content for a server rack.
 
 ### Conclusion
-- This lab was more about getting comfortable with the UI of the simulation we would use in Test-Out. The actual lab tasks were completed in one try and pretty self explanatory
-due to experience doing these tasks in real life.
+- This lab introduced a new piece of technology being Network Racks. I need to spend more time looking at them not only in the virtual environment but also see if I can
+see the components in real life images. I am sure that it is not that difficult and can easily be learned through more exposure with working on network racks.
 
 ### Additional Notes
-- None.
+- Check out if Network Racks all have the same layout Top Down. Check for Universal Standard.
 
 [Completion Status: Completed]

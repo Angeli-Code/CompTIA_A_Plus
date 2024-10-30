@@ -11,4 +11,4 @@ Date:
 
 ### Additional Notes
 
-[Completion Status:]
+[Completion Status: Incomplete]
