@@ -30,11 +30,16 @@ On the CorpServer computer, your task is to:
 - Ensure that the power and activity lights for the rack-mounted networking devices are still on and flickering.
 
 ### Issues and Troubleshooting
+- Issue[0]: Unfamiliar with Simulation User Interface
 
 ### Solutions
+- Solution[0]: Spend a few minutes just exploring around the UI and how I can interact with the simulation.
 
 ### Conclusion
+- This lab was more about getting comfortable with the UI of the simulation we would use in Test-Out. The actual lab tasks were completed in one try and pretty self explanatory
+due to experience doing these tasks in real life.
 
 ### Additional Notes
+- None.
 
 [Completion Status: Completed]
