@@ -43,4 +43,4 @@ understand how to manipulate setups and move around the simulator.
 ### Additional Notes
 - None
 
-[Completion Status: Incomplete]
+[Completion Status: Completed]
