@@ -1,4 +1,4 @@
-Lab 1.1.6: Set Up a Computer
+# Lab 1.1.6: Set Up a Computer
 Date: 10/30/2024
 
 ### Professional Task Given:
